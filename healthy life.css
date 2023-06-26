@@ -1,0 +1,153 @@
+body{
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    margin: 0px;
+}
+.s1{
+    display: flex;
+    margin-right:140px ;
+    margin-left: 90px;
+    margin-bottom: 100px;
+}
+.s1d1{
+    width: 50%;
+    margin-right: 0px;
+}
+.s1d2{
+    width:50%;
+    margin-left: 0px;  
+}
+.s1i1{
+    width: 850px;
+    height: 850px;
+    margin-top: 80px;
+    
+    margin-left: 0px;
+}
+.sp{
+   color:rgb(255, 151, 41);
+}
+
+h1{
+   font-size: 60px;
+   color: rgb(99, 98, 98);
+   margin-top: 190px;
+}
+h4{
+   font-size: 25px;
+   color:#575757;
+   margin: 20px 0px 20px 0px;
+   margin-bottom: 95px;
+}
+.s1a1{
+    font-size: 25px;
+    text-decoration:none;
+    color: white;
+    background-image: linear-gradient(to right,#FBA24F,#FF1E1E);
+    border-radius: 35px;
+    padding: 20px 35px;
+    box-shadow: 0px 0px 10px 10px rgb(255, 148, 8,0.2);
+}
+.s2{
+    background-image: url(images/7.png);
+    background-repeat: no-repeat;
+    display: flex;
+    width: 1440px;
+    height: 600px;
+
+}
+.s2h1{
+    color: #575757;
+    font-size: 40px;
+}
+.s2d1{
+    width: 50%;
+}
+.s2d2{
+    width: 50%;
+}
+.s2i1{
+    width:320px ;
+    height: 500px;
+    margin-left: 200px;
+    margin-top: 100px;
+}
+.s2p1{
+    margin-bottom: 70px;
+    width: 500px;
+    font-size: 20px;
+}
+#s3h1{
+    color:#575757;
+    font-size: 40px;
+    margin-top: 100px;
+    text-align: center;
+}
+.s3p1{
+    text-align: center;
+}
+.s5{
+    display: flex;
+    margin-bottom: 0px;
+}
+.d1{
+    width:590px;
+    height: 500px;
+    box-shadow: 2px 2px 20px gray;
+    margin-left: 70px;
+    border-radius: 30px;
+}
+.pic{
+    width: 520px;
+    height: 278px;
+    margin-left: 33px;
+    margin-top: 30px;
+    border-radius: 30px;
+}
+.s5h4{
+    margin-left: 33px;
+    margin-bottom: 10px;
+    color: black;
+}
+.s5p2{
+    margin-left: 33px;
+}
+.s3{
+    margin-bottom: 90px;
+}
+.black{
+    color: black;
+}
+.sec5{
+    display: flex;
+    box-shadow: 2px 2px 20px gray;
+    height: 200px;
+    width: 1300px;
+    margin: 100px 50px 100px 50px;
+    border-radius: 18px;  
+}
+.lss{
+   font-size: 50px;
+   font-weight: 20px;
+}
+.lsd{
+    width: 30%;
+    margin: 40px 80px;
+}
+footer{
+    background-color: #0B0D17;
+    margin-top: 100px;
+    height: 300px;
+}
+#last{
+    color: gray;
+    text-align: center;
+    padding-top: 100px;
+}
+#fh5{
+    text-align: center;
+    color: #FFFFFF;
+    margin-bottom:srtyjstj;
+}
+
+
+
