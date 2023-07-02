@@ -1,24 +1,24 @@
 body{
     font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
-    margin: 0px;
 }
 .s1{
     display: flex;
-    margin-right:140px ;
-    margin-left: 90px;
-    margin-bottom: 100px;
+    width: 1200px;
+    margin: auto;
+    margin-bottom: 170px;
 }
 .s1d1{
     width: 50%;
     margin-right: 0px;
+    
 }
 .s1d2{
     width:50%;
     margin-left: 0px;  
 }
 .s1i1{
-    width: 850px;
-    height: 850px;
+    width: 740px;
+    height: 740px;
     margin-top: 80px;
     
     margin-left: 0px;
@@ -48,12 +48,14 @@ h4{
     box-shadow: 0px 0px 10px 10px rgb(255, 148, 8,0.2);
 }
 .s2{
+    
+    display: flex;
+    width: 1520px;
+    height: 600px;
     background-image: url(images/7.png);
     background-repeat: no-repeat;
-    display: flex;
-    width: 1440px;
-    height: 600px;
-
+    background-size: cover;
+    margin: auto
 }
 .s2h1{
     color: #575757;
@@ -87,20 +89,30 @@ h4{
 }
 .s5{
     display: flex;
-    margin-bottom: 0px;
+    margin-bottom: 100px;
+    margin-top: 100px; 
 }
 .d1{
-    width:590px;
+    width:635px;
     height: 500px;
     box-shadow: 2px 2px 20px gray;
     margin-left: 70px;
     border-radius: 30px;
+    margin-left: 90px;
+}
+.d12{
+    width:635px;
+    height: 500px;
+    box-shadow: 2px 2px 20px gray;
+    margin-left: 70px;
+    border-radius: 30px;
+    margin-left:20px;
 }
 .pic{
-    width: 520px;
+    width: 530px;
     height: 278px;
-    margin-left: 33px;
-    margin-top: 30px;
+    margin-left:52px;
+    margin-top: 40px;
     border-radius: 30px;
 }
 .s5h4{
@@ -112,7 +124,7 @@ h4{
     margin-left: 33px;
 }
 .s3{
-    margin-bottom: 90px;
+    margin-bottom:auto
 }
 .black{
     color: black;
@@ -121,8 +133,8 @@ h4{
     display: flex;
     box-shadow: 2px 2px 20px gray;
     height: 200px;
-    width: 1300px;
-    margin: 100px 50px 100px 50px;
+    width: 1340px;
+    margin: auto;
     border-radius: 18px;  
 }
 .lss{
@@ -135,7 +147,7 @@ h4{
 }
 footer{
     background-color: #0B0D17;
-    margin-top: 100px;
+    margin-top:50px;
     height: 300px;
 }
 #last{
